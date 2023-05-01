@@ -1,0 +1,6 @@
+n=input("enter details of a person: ")
+name=input("enter nam eo sperson: ")
+emp_id=input("enter emp_id: ")
+phone_no=input("enter the phone_no: ")
+address=input("enter the address: ")
+print("NAME:{0}\n EMP_ID:{1}\n PHONE:{2}\n ADDRESS:{3}".format(name,emp_id,phone_no,address))
