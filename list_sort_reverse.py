@@ -1,0 +1,19 @@
+num=[6,24,11,21,14]
+num.sort( )
+print(num)
+num.remove(6)
+print(num)
+num.clear()
+print(num)
+num1=[6,22,11,24]
+num1.pop(1)
+print(num1)
+num1.pop()
+print(num1)
+num1.reverse()
+print(num1)
+num2=['s','a','h','i']
+num2.sort(reverse=True)
+print(num2)
+num2.sort(reverse=False)
+print(num2)
